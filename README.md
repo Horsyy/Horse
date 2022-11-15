@@ -16,6 +16,6 @@
 
 ### FiveM
 
-- :telescope: I am currently developing / contributing to the project "EliteRP"
+- :telescope: I am currently developing / contributing to the project "Galactica RP"
 - ❤️ Discord Server: https://discord.gg/EcKVhv4kQT
 - 📭 Discord: Horse#0001
