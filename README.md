@@ -14,8 +14,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-### FiveM
+### Contact
 
-- :telescope: I am currently developing / contributing to the project "Galactica RP"
-- ❤️ Discord Server: https://discord.gg/EcKVhv4kQT
 - 📭 Discord: Horse#0001
